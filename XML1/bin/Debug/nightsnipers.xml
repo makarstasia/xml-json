@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<participants>
+  <participant id="1">
+    <name>Diana Arbenina</name>
+    <cfalification>Soloist</cfalification>
+    <years> 1993-now </years>
+      <residence>Russia, Moscow  </residence>
+      <birth>Russia, Volozhin </birth>
+      <age>46</age>
+      <familyStatus>not married</familyStatus>
+                     
+  </participant>
+
+  <participant id="2">
+    <name>Svetlana Surganova</name>
+    <cfalification>Soloist and violin</cfalification>
+    <years>1993-2002</years>
+      <residence>Russia, St.Petersburg  </residence>
+      <birth>Russia, St.Petersburg </birth>
+      <age>52</age>
+      <familyStatus>not married</familyStatus>
+                    
+  </participant>
+
+  <participant id="3">
+    <name>Alexander Averyanov</name>
+    <cfalification>Drummer</cfalification>
+    <years>2018-now</years>
+    <residence>Russia, Moscow  </residence>
+    <birth>Russia, Orenburg </birth> 
+   <age>34</age>
+   <familyStatus>married</familyStatus>
+                   
+  </participant>
+
+  <participant id= "4">
+    <name>Sergey Makarov</name>
+    <cfalification>Bass guitar player</cfalification>
+    <years>2012-now</years>
+    <residence>Russia, Moscow  </residence>
+    <birth>Russia, Moscow </birth> 
+    <age>38</age>
+    <familyStatus>married</familyStatus>
+                   
+  </participant>
+  
+  <participant id= "5">
+    <name>Denis Zhdanov</name>
+    <cfalification>Lead guitarist player</cfalification>
+    <years>2014-now</years>
+    <residence>Russia, Moscow  </residence>
+    <birth>Russia, Moscow </birth> 
+    <age>35</age>
+    <familyStatus> not married</familyStatus>
+                    
+  </participant>
+
+
+  <participant id= "6">
+    <name>Dmitry "Veteran" Honest</name>
+    <cfalification>Bass guitar player</cfalification>
+    <years>2002-2004</years>
+    <residence>Russia, Moscow  </residence>
+    <birth>Russia, Moscow </birth>
+   <age>60</age>
+   <familyStatus> not married</familyStatus>
+                    
+  </participant>
+
+</participants>
